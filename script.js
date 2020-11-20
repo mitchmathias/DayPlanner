@@ -3,6 +3,8 @@ var currentTime = moment().format('HH')
 $(document).ready(function () {
     var currentDate = moment().format('MMMM Do YYYY');
     $("#currentDay").text(currentDate)
+
+
     if (currentTime === '9') {
         $("#9amText").addClass("present")
     }
