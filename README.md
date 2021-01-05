@@ -1,10 +1,30 @@
-Welcome to the Day Planner!
-https://mitchmathias.github.io/DayPlanner/
+# Day Planner ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-Add events to your schedule to keep track of your day.
+## Description 
 
-If the hour has passed the Time slot will be grey, if it is the current hour the Time slot will be red, and all future hours will be green.
+A 8 hour list of todo items for the current day. Users can add, save, and delete items for each block. Usues local time to signal if the hour has passed, is the current hour, or has not passed yet.
 
-You can save items by clicking the save icon and they will remain on the page even after closing the browswer
+## Installation 
+
+Visit the Website
+
+## Usage 
+
+Simply add items to your todo list and click save
+
+## Contributions 
+
+Mitch Mathias
+
+## Test 
+
+None
+
+## Questions 
+
+Email: Mitch.Mathias@gmail.com
+GitHub: https://github.com/mitchmathias
 
 ![screenshot](Assets\screenshot.png)
+
+
