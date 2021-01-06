@@ -6,7 +6,7 @@ A 8 hour list of todo items for the current day. Users can add, save, and delete
 
 ## Installation 
 
-Visit the Website
+Visit the Website https://mitchmathias.github.io/DayPlanner/
 
 ## Usage 
 
